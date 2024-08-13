@@ -225,4 +225,12 @@ button.show-yes-button:hover {
     #yes-questions {
         max-height: 250px; /* Further adjust max height */
     }
+
+    #yes-questions table {
+        font-size: 0.9em; /* Smaller font for small screens */
+    }
+
+    #yes-questions th, #yes-questions td {
+        padding: 8px; /* Smaller padding for better fit */
+    }
 }
