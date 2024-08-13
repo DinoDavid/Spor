@@ -23,11 +23,11 @@ document.addEventListener('DOMContentLoaded', () => {
     function getAssessmentResponse(score) {
         if (score === 0) {
             return "Ingen JA-svar. Du rapporterer ingen symptomer på personlighetsforstyrrelse på de evaluerte områdene.";
-        } else if (score > 0 && score <= 10) {
+        } else if (score > 0 && score <= 15) {
             return "Noen JA-svar. Dette kan indikere lette symptomer eller problemer som kan være verdt å undersøke nærmere.";
-        } else if (score > 10 && score <= 30) {
+        } else if (score > 15 && score <= 40) {
             return "Moderate JA-svar. Du viser tegn på moderate utfordringer på flere områder, som kan kreve ytterligere vurdering eller støtte.";
-        } else if (score > 30) {
+        } else if (score > 40) {
             return "Mange JA-svar. Dette kan indikere omfattende symptomer på personlighetsforstyrrelse som kan kreve grundig klinisk vurdering.";
         }
     }
