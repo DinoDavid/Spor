@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spørreundersøkelse</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Include Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div id="survey-container">
+        <div id="question-container">
+            <!-- Question ID and Question Text will be inserted here -->
+        </div>
+        <div id="navigation-buttons">
+            <button id="back-button" class="back-button" style="display: none;">
+                <i class="fas fa-arrow-left"></i> Tilbake
+            </button>
+            <button id="skip-button" class="skip-button" style="display: none;">
+                <i class="fas fa-forward"></i> Vis Resultat
+            </button>
+            <button id="next-button">
+                Neste <i class="fas fa-arrow-right"></i>
+            </button>
+        </div>
+        <div id="result-container" style="display: none;">
+            <button id="reset-button" class="reset-button">
+                🔄
+            </button>
+            <h2>Resultater</h2>
+            <div id="statistics"></div>
+            <button id="show-yes-button" class="show-yes-button" style="display: none;">
+                <i class="fas fa-list"></i> Vis JA-spørsmål
+            </button>
+            <div id="yes-questions" style="display: none;"></div>
+        </div>
+    </div>
+    <script src="survey.js"></script>
+</body>
+</html>

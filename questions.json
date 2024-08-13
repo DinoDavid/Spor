@@ -1,0 +1,536 @@
+{
+  "questions": [
+    {
+      "text": "Har du unngått jobber eller arbeidsoppgaver der du har måttet forholde deg til mange mennesker?",
+      "options": ["NEI", "JA"],
+      "id": "PQ5"
+    },
+    {
+      "text": "Hender det du unngår å bli kjent med folk med mindre du er sikker på at de vil like deg?",
+      "options": ["NEI", "JA"],
+      "id": "PQ6"
+    },
+    {
+      "text": "Synes du det er vanskelig å være «åpen» selv overfor mennesker som står deg nær?",
+      "options": ["NEI", "JA"],
+      "id": "PQ7"
+    },
+    {
+      "text": "Bekymrer du deg ofte for å bli kritisert eller avvist i sosiale situasjoner?",
+      "options": ["NEI", "JA"],
+      "id": "PQ8"
+    },
+    {
+      "text": "Er du vanligvis stille når du møter andre?",
+      "options": ["NEI", "JA"],
+      "id": "PQ9"
+    },
+    {
+      "text": "Tror du at du ikke er så god, dyktig eller attraktiv som de fleste andre mennesker?",
+      "options": ["NEI", "JA"],
+      "id": "PQ10"
+    },
+    {
+      "text": "Er du redd for å gjøre ting som kan være utfordrende eller å prøve noe nytt?",
+      "options": ["NEI", "JA"],
+      "id": "PQ11"
+    },
+    {
+      "text": "Er det vanskelig for deg å ta dagligdagse avgjørelser, som f.eks. om hva du skal ha på deg, eller hva du skal bestille på restaurant, uten råd eller forsikringer fra andre?",
+      "options": ["NEI", "JA"],
+      "id": "PQ12"
+    },
+    {
+      "text": "Er du avhengig av andre mennesker for å klare deg på viktige områder i livet, som f.eks. økonomi, barneoppdragelse eller boforhold?",
+      "options": ["NEI", "JA"],
+      "id": "PQ13"
+    },
+    {
+      "text": "Har du vansker med å være uenig med andre, selv når du mener at de tar feil?",
+      "options": ["NEI", "JA"],
+      "id": "PQ14"
+    },
+    {
+      "text": "Er det vanskelig for deg å starte prosjekter eller å gjøre ting på egen hånd?",
+      "options": ["NEI", "JA"],
+      "id": "PQ15"
+    },
+    {
+      "text": "Er det så viktig for deg å bli tatt vare på (av andre), at du er villig til å gjøre ubehagelige eller urimelige ting for dem?",
+      "options": ["NEI", "JA"],
+      "id": "PQ16"
+    },
+    {
+      "text": "Er det vanligvis ubehagelig for deg å være alene?",
+      "options": ["NEI", "JA"],
+      "id": "PQ17"
+    },
+    {
+      "text": "Når et nært forhold tar slutt, føler du at du umiddelbart må finne en annen til å ta vare på deg?",
+      "options": ["NEI", "JA"],
+      "id": "PQ17"
+    },
+    {
+      "text": "Bekymrer du deg mye for å bli igjen alene uten noen til å ta vare på deg?",
+      "options": ["NEI", "JA"],
+      "id": "PQ18"
+    },
+    {
+      "text": "Er du den type person som bruker mye tid på å fokusere på detaljer, orden eller organisering, eller på å lage lister og planer?",
+      "options": ["NEI", "JA"],
+      "id": "PQ19"
+    },
+    {
+      "text": "Har du vansker med å gjøre ting ferdig fordi du bruker så mye tid på å få det helt riktig?",
+      "options": ["NEI", "JA"],
+      "id": "PQ20"
+    },
+    {
+      "text": "Er du dedikert til arbeidet ditt eller til å være produktiv?",
+      "options": ["NEI", "JA"],
+      "id": "PQ21"
+    },
+    {
+      "text": "Har du veldig høye standarder for hva som er riktig og galt?",
+      "options": ["NEI", "JA"],
+      "id": "PQ22"
+    },
+    {
+      "text": "Har du vansker med å kaste ting fordi de kan være gode å ha til senere?",
+      "options": ["NEI", "JA"],
+      "id": "PQ23"
+    },
+    {
+      "text": "Er det vanskelig for deg å arbeide sammen med andre mennesker, eller spørre andre om å gjøre ting hvis de ikke er enige om å gjøre det akkurat slik du vil ha det?",
+      "options": ["NEI", "JA"],
+      "id": "PQ24"
+    },
+    {
+      "text": "Er det vanskelig for deg å bruke penger på deg selv og andre?",
+      "options": ["NEI", "JA"],
+      "id": "PQ25"
+    },
+    {
+      "text": "Er det slik at når du først har lagt en plan, vil det være vanskelig for deg å gjøre forandringer?",
+      "options": ["NEI", "JA"],
+      "id": "PQ26"
+    },
+    {
+      "text": "Har andre sagt at du er sta?",
+      "options": ["NEI", "JA"],
+      "id": "PQ27"
+    },
+    {
+      "text": "Får du ofte følelsen av at folk utnytter deg, sårer deg eller lyver for deg?",
+      "options": ["NEI", "JA"],
+      "id": "PQ28"
+    },
+    {
+      "text": "Er du en veldig privat person som sjelden betror deg til andre?",
+      "options": ["NEI", "JA"],
+      "id": "PQ29"
+    },
+    {
+      "text": "Finner du det tryggest ikke å la andre få vite for mye om deg fordi de vil bruke det mot deg?",
+      "options": ["NEI", "JA"],
+      "id": "PQ30"
+    },
+    {
+      "text": "Føler du ofte at folk truer eller fornærmer deg ved det de sier eller gjør?",
+      "options": ["NEI", "JA"],
+      "id": "PQ31"
+    },
+    {
+      "text": "Er du den slags person som bærer nag eller bruker lang tid før du kan tilgi folk som har fornærmet eller krenket deg?",
+      "options": ["NEI", "JA"],
+      "id": "PQ32"
+    },
+    {
+      "text": "Er det mange mennesker du ikke kan tilgi på grunn av det de gjorde eller sa til deg for lenge siden?",
+      "options": ["NEI", "JA"],
+      "id": "PQ33"
+    },
+    {
+      "text": "Blir du ofte sint eller går til motangrep når noen kritiserer eller fornærmer deg på en eller annen måte?",
+      "options": ["NEI", "JA"],
+      "id": "PQ34"
+    },
+    {
+      "text": "Har du av og til mistanke om at din ektefelle eller partner har vært utro?",
+      "options": ["NEI", "JA"],
+      "id": "PQ35"
+    },
+    {
+      "text": "Når du er ute og ser folk som står og snakker sammen, får du ofte følelsen av at det er deg de snakker om?",
+      "options": ["NEI", "JA"],
+      "id": "PQ36"
+    },
+    {
+      "text": "Når du er ute blant mennesker, får du ofte følelsen av at du blir iakttatt eller stirret på?",
+      "options": ["NEI", "JA"],
+      "id": "PQ37"
+    },
+    {
+      "text": "Får du ofte følelsen av at ordene i en sang eller noe i en film eller på TV har en spesiell mening for deg?",
+      "options": ["NEI", "JA"],
+      "id": "PQ38"
+    },
+    {
+      "text": "Er du en overtroisk person?",
+      "options": ["NEI", "JA"],
+      "id": "PQ39"
+    },
+    {
+      "text": "Har du noen gang følt at du har kunnet få ting til å skje bare ved å ønske det eller tenke på det?",
+      "options": ["NEI", "JA"],
+      "id": "PQ40"
+    },
+    {
+      "text": "Har du hatt personlige erfaringer med det overnaturlige?",
+      "options": ["NEI", "JA"],
+      "id": "PQ41"
+    },
+    {
+      "text": "Tror du at du har en «sjette sans» som gjør det mulig for deg å vite om og forutse ting?",
+      "options": ["NEI", "JA"],
+      "id": "PQ42"
+    },
+    {
+      "text": "Har du ofte følelsen av at alt er uvirkelig, at du er frakoplet kroppen, følelsene eller tankene dine, eller at du er en ytre observatør til dine egne tanker eller bevegelser?",
+      "options": ["NEI", "JA"],
+      "id": "PQ43"
+    },
+    {
+      "text": "Ser du ofte ting andre ikke kan se?",
+      "options": ["NEI", "JA"],
+      "id": "PQ44"
+    },
+    {
+      "text": "Hører du ofte en stemme som forsiktig sier navnet ditt?",
+      "options": ["NEI", "JA"],
+      "id": "PQ45"
+    },
+    {
+      "text": "Har du hatt følelsen av at det er en person eller kraft omkring deg, selv om du ikke kan se noen?",
+      "options": ["NEI", "JA"],
+      "id": "PQ46"
+    },
+    {
+      "text": "Er det svært få mennesker du har et nært forhold til utenom den nærmeste familie?",
+      "options": ["NEI", "JA"],
+      "id": "PQ47"
+    },
+    {
+      "text": "Føler du deg vanligvis nervøs når du er sammen med mennesker du ikke kjenner særlig godt?",
+      "options": ["NEI", "JA"],
+      "id": "PQ48"
+    },
+    {
+      "text": "Er det IKKE viktig for deg å ha venner eller nære forhold eller å være sammen med familien din?",
+      "options": ["NEI", "JA"],
+      "id": "PQ49"
+    },
+    {
+      "text": "Foretrekker du nesten alltid å gjøre ting alene fremfor sammen med andre?",
+      "options": ["NEI", "JA"],
+      "id": "PQ50"
+    },
+    {
+      "text": "Har du liten eller nærmest ingen interesse av å ha seksuelle opplevelser med en annen person?",
+      "options": ["NEI", "JA"],
+      "id": "PQ51"
+    },
+    {
+      "text": "Er det virkelig svært få ting som gir deg glede eller nytelse?",
+      "options": ["NEI", "JA"],
+      "id": "PQ52"
+    },
+    {
+      "text": "Bryr du deg ikke om hva andre tenker om deg?",
+      "options": ["NEI", "JA"],
+      "id": "PQ53"
+    },
+    {
+      "text": "Har du sjelden sterke følelser, som å være veldig sint eller veldig glad?",
+      "options": ["NEI", "JA"],
+      "id": "PQ54"
+    },
+    {
+      "text": "Liker du å være i sentrum for oppmerksomheten?",
+      "options": ["NEI", "JA"],
+      "id": "PQ55"
+    },
+    {
+      "text": "Har du tendens til å flørte mye?",
+      "options": ["NEI", "JA"],
+      "id": "PQ56"
+    },
+    {
+      "text": "Har du en tendens til å legge an på folk?",
+      "options": ["NEI", "JA"],
+      "id": "PQ57"
+    },
+    {
+      "text": "Liker du å tiltrekke deg oppmerksomhet ved den måten du kler deg på eller ser ut?",
+      "options": ["NEI", "JA"],
+      "id": "PQ58"
+    },
+    {
+      "text": "Har du en tendens til å være veldig dramatisk i måten å være på og snakke på?",
+      "options": ["NEI", "JA"],
+      "id": "PQ59"
+    },
+    {
+      "text": "Er du mer emosjonell enn de fleste andre, for eksempel gråter du mer enn andre når du hører en trist historie?",
+      "options": ["NEI", "JA"],
+      "id": "PQ60"
+    },
+    {
+      "text": "Forandrer du ofte meninger om ting avhengig av hvem du er sammen med eller hva du nettopp har lest eller sett på TV?",
+      "options": ["NEI", "JA"],
+      "id": "PQ61"
+    },
+    {
+      "text": "Føler du at du er god venn selv med folk som har utført arbeid for deg, som rørleggeren, bilmekanikeren eller legen din?",
+      "options": ["NEI", "JA"],
+      "id": "PQ62"
+    },
+    {
+      "text": "Er du viktigere, mer begavet eller har mer suksess enn de fleste andre mennesker?",
+      "options": ["NEI", "JA"],
+      "id": "PQ63"
+    },
+    {
+      "text": "Har folk fortalt deg at du har for høye tanker om deg selv?",
+      "options": ["NEI", "JA"],
+      "id": "PQ64"
+    },
+    {
+      "text": "Tenker du mye på makt, suksess eller anerkjennelse som en dag vil bli deg til del?",
+      "options": ["NEI", "JA"],
+      "id": "PQ65"
+    },
+    {
+      "text": "Tenker du mye på det perfekte romantiske forholdet som en dag vil bli ditt?",
+      "options": ["NEI", "JA"],
+      "id": "PQ66"
+    },
+    {
+      "text": "Når du har et problem, insisterer du nesten alltid på å få snakke med den øverste sjefen?",
+      "options": ["NEI", "JA"],
+      "id": "PQ67"
+    },
+    {
+      "text": "Forsøker du å tilbringe tid med folk som er viktige eller innflytelsesrike?",
+      "options": ["NEI", "JA"],
+      "id": "PQ68"
+    },
+    {
+      "text": "Er det svært viktig for deg at folk legger merke til deg eller beundrer deg på en eller annen måte?",
+      "options": ["NEI", "JA"],
+      "id": "PQ69"
+    },
+    {
+      "text": "Føler du at du er en person som fortjener spesialbehandling, eller at andre uten videre skal gjøre det du ønsker?",
+      "options": ["NEI", "JA"],
+      "id": "PQ70"
+    },
+    {
+      "text": "Er du ofte nødt til å sette dine behov over andres?",
+      "options": ["NEI", "JA"],
+      "id": "PQ71"
+    },
+    {
+      "text": "Har andre klaget over at du utnytter folk?",
+      "options": ["NEI", "JA"],
+      "id": "PQ72"
+    },
+    {
+      "text": "Føler du generelt at andres problemer eller følelser egentlig ikke er ditt problem?",
+      "options": ["NEI", "JA"],
+      "id": "PQ73"
+    },
+    {
+      "text": "Synes du ofte at andres problemer virker kjedelige?",
+      "options": ["NEI", "JA"],
+      "id": "PQ74"
+    },
+    {
+      "text": "Har andre klaget over at du ikke lytter til dem eller bryr deg om deres følelser?",
+      "options": ["NEI", "JA"],
+      "id": "PQ75"
+    },
+    {
+      "text": "Når du ser at noen lykkes, føler du at du fortjener det mer enn dem?",
+      "options": ["NEI", "JA"],
+      "id": "PQ76"
+    },
+    {
+      "text": "Føler du at andre ofte er misunnelig på deg?",
+      "options": ["NEI", "JA"],
+      "id": "PQ77"
+    },
+    {
+      "text": "Synes du at det er svært få mennesker som er verd din tid og oppmerksomhet?",
+      "options": ["NEI", "JA"],
+      "id": "PQ78"
+    },
+    {
+      "text": "Har andre beklaget seg over at du oppfører deg arrogant eller som om du er hevet over andre?",
+      "options": ["NEI", "JA"],
+      "id": "PQ79"
+    },
+    {
+      "text": "Har du blitt desperat når du tror at noen du virkelig bryr deg om, kan komme til å forlate deg?",
+      "options": ["NEI", "JA"],
+      "id": "PQ80"
+    },
+    {
+      "text": "Har dine forhold til folk du virkelig bryr deg om mange ekstreme svingninger opp og ned?",
+      "options": ["NEI", "JA"],
+      "id": "PQ81"
+    },
+    {
+      "text": "Endres ofte din følelse av hvem du er, dramatisk?",
+      "options": ["NEI", "JA"],
+      "id": "PQ82"
+    },
+    {
+      "text": "Oppfører du deg forskjellig med forskjellige mennesker eller i forskjellige situasjoner, slik at du av og til ikke vet hvem du virkelig er?",
+      "options": ["NEI", "JA"],
+      "id": "PQ83"
+    },
+    {
+      "text": "Har det vært mange plutselige forandringer i dine mål, karriereplaner, religiøse tro osv.?",
+      "options": ["NEI", "JA"],
+      "id": "PQ84"
+    },
+    {
+      "text": "Har det vært mange plutselige forandringer med hensyn til hva slags venner du har eller i din seksuelle identitet?",
+      "options": ["NEI", "JA"],
+      "id": "PQ85"
+    },
+    {
+      "text": "Har du ofte gjort ting impulsivt?",
+      "options": ["NEI", "JA"],
+      "id": "PQ86"
+    },
+    {
+      "text": "Har du prøvd å skade eller ta livet av deg selv eller truet med å gjøre det?",
+      "options": ["NEI", "JA"],
+      "id": "PQ87"
+    },
+    {
+      "text": "Har du noensinne kuttet, brent eller klort deg selv med vilje?",
+      "options": ["NEI", "JA"],
+      "id": "PQ88"
+    },
+    {
+      "text": "Forandrer humøret ditt ofte i løpet av en enkelt dag, avhengig av hva som skjer i livet ditt?",
+      "options": ["NEI", "JA"],
+      "id": "PQ89"
+    },
+    {
+      "text": "Føler du deg ofte tom innvendig?",
+      "options": ["NEI", "JA"],
+      "id": "PQ90"
+    },
+    {
+      "text": "Har du ofte sinneutbrudd eller blir så sint at du mister kontrollen?",
+      "options": ["NEI", "JA"],
+      "id": "PQ91"
+    },
+    {
+      "text": "Slår du folk eller kaster ting når du blir sint?",
+      "options": ["NEI", "JA"],
+      "id": "PQ92"
+    },
+    {
+      "text": "Får selv små ting deg veldig sint?",
+      "options": ["NEI", "JA"],
+      "id": "PQ93"
+    },
+    {
+      "text": "Når du er veldig opprørt, blir du mistenksom overfor andre, føler deg frakoplet kroppen din eller føler at ting blir uvirkelige?",
+      "options": ["NEI", "JA"],
+      "id": "PQ94"
+    },
+    {
+      "text": "Mobbet, truet eller skremte du andre barn før du var 15?",
+      "options": ["NEI", "JA"],
+      "id": "PQ95"
+    },
+    {
+      "text": "Startet du slåsskamper før du var 15?",
+      "options": ["NEI", "JA"],
+      "id": "PQ96"
+    },
+    {
+      "text": "Skadet du eller truet noen med et våpen, som f.eks. et balltre, en murstein, en knust flaske, en kniv eller et gevær før du var 15?",
+      "options": ["NEI", "JA"],
+      "id": "PQ97"
+    },
+    {
+      "text": "Før du var 15, gjorde du grusomme ting mot noen som medførte fysisk smerte eller lidelse?",
+      "options": ["NEI", "JA"],
+      "id": "PQ98"
+    },
+    {
+      "text": "Skadet du dyr med vilje før du var 15?",
+      "options": ["NEI", "JA"],
+      "id": "PQ99"
+    },
+    {
+      "text": "Før du var 15, ranet, overfalt du eller tok du noe fra andre med makt ved å true ham eller henne?",
+      "options": ["NEI", "JA"],
+      "id": "PQ100"
+    },
+    {
+      "text": "Før du var 15, hendte det at du tvang noen til å gjøre noe seksuelt?",
+      "options": ["NEI", "JA"],
+      "id": "PQ101"
+    },
+    {
+      "text": "Stiftet du branner før du var 15?",
+      "options": ["NEI", "JA"],
+      "id": "PQ102"
+    },
+    {
+      "text": "Hendte det at du med vilje ødela ting i andre sine hjem, biler eller andre bygninger før du var 15?",
+      "options": ["NEI", "JA"],
+      "id": "PQ103"
+    },
+    {
+      "text": "Hendte det at du før du var 15 brøt deg inn i andre menneskers hus for å få noe?",
+      "options": ["NEI", "JA"],
+      "id": "PQ104"
+    },
+    {
+      "text": "Før du var 15 løy du mye eller bedro andre mennesker for å få noe du ønsket eller slippe unna noe du skulle gjøre?",
+      "options": ["NEI", "JA"],
+      "id": "PQ105"
+    },
+    {
+      "text": "Hendte det før du var 15 at du begikk butikknasking, stjal noe eller forfalsket noens underskrift for å få tak i penger?",
+      "options": ["NEI", "JA"],
+      "id": "PQ106"
+    },
+    {
+      "text": "Hendte det at du rømte hjemmefra og ble borte natten over før du var 15?",
+      "options": ["NEI", "JA"],
+      "id": "PQ107"
+    },
+    {
+      "text": "Hendte det ofte at du var ute svært sent, lenge etter det klokkeslettet du var forventet å være hjemme, før du var 13?",
+      "options": ["NEI", "JA"],
+      "id": "PQ108"
+    },
+    {
+      "text": "Før du var 13, hendte det ofte at du skulket skolen?",
+      "options": ["NEI", "JA"],
+      "id": "PQ109"
+    }
+  ]
+}
+
+
